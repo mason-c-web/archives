@@ -1,4 +1,5 @@
-# archives
+# The Archives 📖
 
-This is where old projects live that I don't want to use anymore, but would like to documents for the future
-testing
+This is where I keep my old project documented. Most are cute webgames I made in college. Enjoy!
+
+Explore them at https://claremason.net/archives/
